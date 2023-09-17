@@ -8,7 +8,7 @@ By using the Service, you agree to these Terms. If you disagree with any part of
 
 **By using the Service, you agree that**:
 
-- You will not violate these Terms, the Discord Terms of Service (https://discord.com/terms) nor the Discord Guidelines (https://discord.com/guidelines) while using the Service.
+- You will not violate these Terms, the [Discord Terms of Service](https://discord.com/terms) nor the [Discord Guidelines](https://discord.com/guidelines) while using the Service.
 - You will not use the Service for any illegal and/or malicious behavior.
 - You will not attempt to purposely interrupt the operation of the Service.
 - You will not trade or sell in-game currencies for anything outside of the Bot.
