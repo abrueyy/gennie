@@ -39,7 +39,7 @@ This collected information is not shared with anyone else.
 
 ### Contact
 
-For any concerns about this policy or the Bot's operation, please use the following Discord name contact: abruey#9340
+For any concerns about this policy or the Bot's operation, please use the following Discord name contact: @abruey
 
 Any of this data, besides the Discord user ID (which is kept for the solely reason to prevent exploits), can be requested to be removed through the provided Discord name contact or in the Official Discord Server of Gennie: https://discord.gg/TPWDHnxYmT. By doing this, all your data will be removed from the database. If you want to also get this information removed from database backups, please include it in the request. It may take up to 7 days for this information to get removed.
 
