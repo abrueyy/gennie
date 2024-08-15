@@ -14,9 +14,9 @@ By using the Service, you agree to these Terms. If you disagree with any part of
 - You will not trade or sell in-game currencies for anything outside of the Bot.
 - You will not abuse or benefit of exploits of bugs of or related to the Bot.
 - You will not use macros, scripts or any other form of automation to interact with the Bot.
-- Your use of the Service is purely for virtual entertainment. We are not responsible for any real-life damages caused by your use of the Service.
+- Your use of the Service is purely for virtual entertainment. I am not responsible for any real-life damages caused by your use of the Service.
 
-We reserve the right to revoke temporarily or permanently your access to the Service at any time for any reason, with or without prior notice.
+I reserve the right to revoke temporarily or permanently your access to the Service at any time for any reason, with or without prior notice.
 
 # Privacy Policy for Gennie
 
