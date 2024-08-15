@@ -20,9 +20,9 @@ I reserve the right to revoke temporarily or permanently your access to the Serv
 
 # Privacy Policy for Gennie
 
-This Privacy Policy informs you of our policies about the information collected when you use the Service. By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy.
+This Privacy Policy informs you of my policies about the information collected when you use the Service. By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy.
 
-### The information we collect
+### The information I collect
 
 I collect certain information from my users, this information is securily saved and protected.
 
