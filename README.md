@@ -24,13 +24,13 @@ This Privacy Policy informs you of our policies about the information collected 
 
 ### The information we collect
 
-We collect certain information from our users, this information is securily saved and protected.
+I collect certain information from my users, this information is securily saved and protected.
 
 The information collected includes:
 - Discord username and discriminator (also known as "tag").
 - Discord user ID.
 
-### How we use your information
+### How I use your information
 
 This information is used for the functionality of the Bot, such as playing music and storing the commands progress, the information is securily saved and protected.
 
